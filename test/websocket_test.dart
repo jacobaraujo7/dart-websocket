@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:test/test.dart';
 
-import 'package:websocket/websocket.dart' show WebSocket;
+import 'package:dart_websocket/websocket.dart' show WebSocket;
 
 void main() {
   final url = 'ws://localhost:5600';
